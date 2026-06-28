@@ -31,6 +31,6 @@ Tools & Technologies:
 - Service Catalog
 - Workflow Automation
 
-Demo Video - Watch Demo Video on LinkdIn:
+Demo Video - Watch Demo Video on LinkedIn:
 
-[LinkdIn Post] - (https://www.linkedin.com/posts/sathish-s-132616264_servicenow-itsm-flowdesigner-activity-7467491765760151552-v6Jw?utm_source=share&utm_medium=member_android&rcm=ACoAAEDgAjYByl-9bH9C03fWczUpsuDQRM2BclY)
+[LinkedIn Post] - (https://www.linkedin.com/posts/sathish-s-132616264_servicenow-itsm-flowdesigner-activity-7467491765760151552-v6Jw?utm_source=share&utm_medium=member_android&rcm=ACoAAEDgAjYByl-9bH9C03fWczUpsuDQRM2BclY)
